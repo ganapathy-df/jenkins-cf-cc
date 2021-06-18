@@ -15,6 +15,8 @@ public class RuleTestApp {
 		
 		if (k == 0) {
 		}
+	    
+	    	if (k==1){}
     }
 
 }
