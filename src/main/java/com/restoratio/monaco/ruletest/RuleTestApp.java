@@ -15,6 +15,12 @@ public class RuleTestApp {
 		
 		if (k == 0) {
 		}
-    }
+		int j = 10;
+    		if (j == 0) {
+		}
+	    
+    		if (j == 10) {
+		}
+}
 
 }
